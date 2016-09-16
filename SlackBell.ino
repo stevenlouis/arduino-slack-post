@@ -26,7 +26,7 @@ const char* fingerprint = "‎‎ab f0 5b a9 1a e0 ae 5f ce 32 2e 7c 66 67 49 ec
 // Slack Channel Info, Bot User Name, and Message
 const String channel = "#channelname";
 const String username = "The Doorbell Bot";
-const String message = "Ding Dong! Someone needs assistance.";
+const String message = "Ding Dong! Someone needs assistance."; //Include <!here> or <!channel> to notify the channel
 
 //SSL Client Variable
 WiFiClientSecure client;
